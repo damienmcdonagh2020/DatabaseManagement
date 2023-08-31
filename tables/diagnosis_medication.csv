@@ -1,0 +1,32 @@
+﻿diag_id,app_id,staff_id,Date,Diagnosis,medication
+1,1,3,2021-03-24,Leptospirosis,Aspirin
+2,2,2,2022-09-22,Intestinal parasite infection,Diazepam
+3,3,1,2021-03-13,Canine parvovirus,Acepromazine
+4,4,3,2019-04-22,Canine distemper,Carprofen
+5,5,1,2021-04-10,Intestinal parasite infection,Maropitant
+6,6,2,2023-02-05,Hemorrhagic gastroenteritis,Diazepam
+7,7,2,2023-05-28,Hip dysplasia,Acepromazine
+8,8,2,2019-08-11,Canine distemper,Maropitant
+9,9,3,2021-07-19,Bone fracture,Acepromazine
+10,10,3,2022-01-31,Intestinal parasite infection,Aspirin
+11,11,3,2022-07-03,Lameness,Diazepam
+12,12,1,2023-02-27,Intestinal parasite infection,Maropitant
+13,13,2,2019-05-31,Hemorrhagic gastroenteritis,Alprazolam
+14,14,1,2022-05-17,Leptospirosis,Amoxicillin
+15,15,1,2020-01-10,Gingivitis,Amoxicillin
+16,16,1,2020-10-25,Canine distemper,Aspirin
+17,17,1,2023-01-06,Lameness,Maropitant
+18,18,2,2021-03-14,Lameness,Maropitant
+19,19,1,2020-08-27,Hemorrhagic gastroenteritis,Carprofen
+20,20,3,2019-03-09,Ringworm,Amoxicillin
+21,21,1,2022-08-03,Hemorrhagic gastroenteritis,Aspirin
+22,22,1,2023-06-15,Intestinal parasite infection,Methimazole
+23,23,2,2022-02-22,Hip dysplasia,Fenbendazole
+24,24,2,2019-04-12,Hip dysplasia,Methimazole
+25,25,1,2019-02-13,Hemorrhagic gastroenteritis,Dexamethasone
+26,26,2,2019-09-14,Intestinal parasite infection,Alprazolam
+27,27,1,2021-09-13,Gingivitis,Maropitant
+28,28,3,2020-09-30,Gingivitis,Amoxicillin
+29,29,2,2020-05-03,Ringworm,Acepromazine
+30,30,1,2019-05-26,Bone fracture,Dexamethasone
+31,31,2,2020-05-22,Hip dysplasia,Dexamethasone

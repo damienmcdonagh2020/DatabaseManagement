@@ -1,0 +1,32 @@
+﻿id,staffId,symptons,PetId,Date
+1,2,Constantly licking or chewing paws,12,2021-04-23
+2,2,Lameness or changes in gait,5,2019-12-11
+3,2,Changes in performance,13,2021-08-10
+4,1,Bucking,8,2023-01-24
+5,2,Negative changes in behavior or attitude,8,2020-06-24
+6,7,Reduced performance,4,2023-01-07
+7,1,Difficulty or inability to collect,12,2019-05-28
+8,5,Inability or difficulty in taking a lead,13,2019-12-03
+9,3,Lameness or changes in gait,9,2021-11-27
+10,4,Reluctance or difficulty when climbing stairs or jumping,9,2019-02-28
+11,3,Negative changes in behavior or attitude,6,2020-07-19
+12,2,Difficulty or inability to collect,1,2019-03-05
+13,1,Reduced performance,12,2019-09-14
+14,2,Negative changes in behavior or attitude,11,2019-09-29
+15,7,Altered sitting (“Puppy Sitting”),4,2021-06-16
+16,5,Altered sitting (“Puppy Sitting”),12,2019-10-20
+17,6,Difficulty or inability to collect,8,2023-06-24
+18,2,Difficulty when getting up after lying down,1,2020-09-04
+19,5,Inability or difficulty in taking a lead,4,2023-05-02
+20,4,Changes in posture,12,2020-02-03
+21,5,Difficulty or inability to collect,1,2020-03-26
+22,2,Negative changes in attitude or behavior,4,2022-05-26
+23,4,Difficulty when getting up after lying down,6,2020-07-26
+24,7,Negative changes in behavior or attitude,1,2021-06-11
+25,5,Difficulty when getting up after lying down,5,2021-01-22
+26,5,Difficulty flexing at poll,3,2022-06-18
+27,5,Abnormal gait shortened stride or lameness,6,2023-01-29
+28,7,Constantly licking or chewing paws,8,2021-03-05
+29,3,Bucking,2,2022-09-01
+30,2,Altered sitting (“Puppy Sitting”),13,2022-12-05
+31,1,Changes in eating or eliminating,2,2019-08-20
